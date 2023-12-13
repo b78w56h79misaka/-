@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\桌面\c\实验三（1）\源.cpp(7,9): warning C4101: “lenth”: 未引用的局部变量
+C:\桌面\c\实验三（1）\源.cpp(7,15): warning C4101: “width”: 未引用的局部变量
+  实验三（1）.vcxproj -> C:\桌面\c\实验三（1）\x64\Debug\实验三（1）.exe
